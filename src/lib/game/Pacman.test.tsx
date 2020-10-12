@@ -1,0 +1,3 @@
+test('Spots Ghosts', async () => {
+
+})
